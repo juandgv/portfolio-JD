@@ -13,10 +13,52 @@
 </html>
 
 <style>
-	html,
+	html {
+		font-family: monospace, Menlo, Monaco, "Lucida Console", "Courier New";
+		background: #fff;
+		letter-spacing: -0.025rem;
+	}
+
+	,
 	body {
 		margin: 0;
+		padding: 0;
 		width: 100%;
 		height: 100%;
+	}
+	a {
+		text-decoration: none;
+	}
+
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	*,
+	*::before,
+	*::after {
+		box-sizing: border-box;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4 {
+		margin: 0;
+		font-family:
+			system-ui,
+			-apple-system,
+			BlinkMacSystemFont,
+			"Segoe UI",
+			Roboto;
+	}
+
+	p {
+		color: #777;
+		font-size: 0.8rem;
+		line-height: 1.5;
+		margin: 0;
+		text-wrap: pretty;
 	}
 </style>
