@@ -1,0 +1,57 @@
+---
+import Section from "@/components/Section.astro";
+
+import { work } from "@cv";
+---
+
+<Section>
+    <div class="container">
+        <p>
+            Thanks for visiting! This portfolio was crafted with ❤️ and based on
+            the design of{" "}
+            <a
+                href="https://github.com/BartoszJarocki/cv"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="credit-link"
+            >
+                Bartosz Jarocki
+            </a>
+        </p>
+    </div>
+</Section>
+
+<style>
+    .container {
+        display: flex;
+        justify-content: center;
+        padding: 2rem 0;
+        border-top: 1px solid #eee;
+    }
+
+    p {
+        color: #666;
+        font-size: 0.85rem;
+        text-align: center;
+        line-height: 1.5;
+    }
+
+    .credit-link {
+        color: #444;
+        text-decoration: none;
+        border-bottom: 1px dashed #666;
+        transition: all 0.3s ease;
+    }
+
+    .credit-link:hover {
+        color: #111;
+        border-bottom-style: solid;
+    }
+
+    @media print {
+        .container {
+            padding: 0.5rem 0;
+            border-top-color: #ddd;
+        }
+    }
+</style>

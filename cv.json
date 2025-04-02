@@ -5,7 +5,7 @@
         "image": "https://media.licdn.com/dms/image/v2/D4E03AQFCUBQaxL2BQQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690129776326?e=1749081600&v=beta&t=vjtczmuBkFzjWhEBxkXfF8jS22ZN_mlrpJ6fsg25ipM",
         "email": "juandagilva85@gmail.com",
         "url": "https://midu.dev",
-        "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+        "summary": "Software Engineer with experience in web development and database management. Passionate about building efficient and scalable solutions. I live in Medellín, Colombia.",
         "location": {
             "address": "",
             "postalCode": "08820",
@@ -16,45 +16,45 @@
         "profiles": [
             {
                 "network": "LinkedIn",
-                "username": "midudev",
-                "url": "https://linkedin.com/in/midudev"
+                "username": "jeydi",
+                "url": "https://www.linkedin.com/in/juandavidgv/"
             },
             {
                 "network": "GitHub",
-                "username": "midudev",
-                "url": "https://github.com/midudev"
+                "username": "jeydi",
+                "url": "https://github.com/juandgv"
             }
         ]
     },
     "work": [
         {
-            "name": "midudev",
-            "position": "Web programming communicator",
-            "url": "https://twitch.tv/midudev",
-            "startDate": "2021-01-01",
+            "name": "isolved",
+            "position": "Migration Associate",
+            "url": "https://www.isolved.com/",
+            "startDate": "2024-05-01",
             "endDate": null,
-            "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+            "summary": "Extract, analyze, and convert client data for migrations to the isolved platform. Assist with data analysis and transitions during acquisitions.",
             "highlights": [
                 "Started the company"
             ]
         },
         {
-            "name": "Adevinta",
-            "position": "Lead Frontend Architect",
-            "url": "https://twitch.tv/midudev",
-            "startDate": "2016-06-01",
-            "endDate": "2022-09-01",
-            "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+            "name": "isolved",
+            "position": "Operations Associate",
+            "url": "https://www.isolved.com/",
+            "startDate": "2023-11-15",
+            "endDate": "2024-05-01",
+            "summary": "Validated and reconciled new hire files to ensure data integrity. Monitored transfer notifications and addressed discrepancies proactively. Supported transitions during mergers and acquisitions. Analyzed operational metrics to support business decisions. Collaborated with cross-functional teams to improve processes.",
             "highlights": [
                 "Started the company"
             ]
         },
         {
-            "name": "Hubii",
-            "position": "Senior FrontEnd Developer",
-            "startDate": "2011-03-01",
-            "endDate": "2016-05-01",
-            "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+            "name": "ISA",
+            "position": "Web developer",
+            "startDate": "2023-01-01",
+            "endDate": "2023-07-01",
+            "summary": "During my internship at ISA, I contributed to an information system for operating budget calculations by:Developing three key modules, enhancing functionality and efficiency. Redesigning the UI for better usability and user experience and optimizing performance, reducing load time by 35% in two modules.",
             "highlights": [
                 "Started the company"
             ]
@@ -77,7 +77,7 @@
         {
             "institution": "Institución Universitaria de Envigado",
             "url": "https://www.uoc.edu/portal/es/index.html",
-            "area": "Software Engineer",
+            "area": "Software Engineering",
             "studyType": "Bachelor's degree",
             "startDate": "2003-01-01",
             "endDate": "2009-01-01",
@@ -248,66 +248,31 @@
     ],
     "projects": [
         {
-            "name": "mars.codes",
+            "name": "Color Palette Generator",
             "isActive": true,
-            "description": "Interactive story with programming challenges to travel to Mars",
+            "description": "A color palette generator built with HTML, CSS, and JavaScript, allowing users to easily generate a color palette based on a base color.",
             "highlights": [
-                "Choose your own adventure",
-                "In progress"
+                "Javascript, HTML, CSS"
             ],
-            "url": "https://mars.codes"
+            "url": "https://color-palette-generator-jd.netlify.app"
         },
         {
-            "name": "AdventJS",
+            "name": "Shopping cart",
             "isActive": true,
-            "description": "JavaScript programming challenges for every day of December until Christmas",
+            "description": "ShoppingCart is a simple app built with HTML, CSS, and JavaScript, allowing users to easily add, remove, and empty their shopping cart with a smooth, interactive experience.",
             "highlights": [
-                "+1 million visits",
-                "Multilanguage",
-                "JavaScript & TypeScript"
+                "Javascript, HTML, CSS"
             ],
-            "url": "https://advent.js/dev"
+            "url": "https://carrito-de-compra-2.netlify.app"
         },
         {
-            "name": "Codember",
+            "name": "Linux Ubuntu portfolio",
             "isActive": true,
-            "description": "Interactive programming game with challenges and secrets",
+            "description": "A portfolio of Linux Ubuntu, with a simple interface and a clean design.",
             "highlights": [
-                "+2000 active users",
-                "Challenges for any language"
+                "Javascript, HTML, CSS"
             ],
-            "url": "https://codember.dev"
-        },
-        {
-            "name": "codi.link",
-            "isActive": true,
-            "description": "Playground of HTML, CSS and JavaScript code for sharing",
-            "highlights": [
-                "100k monthly visit",
-                "Developed by the community"
-            ],
-            "url": "https://codi.link",
-            "github": "https://github.com/midudev/codi.link"
-        },
-        {
-            "name": "Pruebas Técnicas",
-            "isActive": true,
-            "description": "List of technical tests of companies to practice programming",
-            "highlights": [
-                "100% free",
-                "+500 community solutions"
-            ],
-            "url": "https://pruebastecnicas.com",
-            "github": "https://github.com/midudev/pruebas-tecnicas"
-        },
-        {
-            "name": "miduConf",
-            "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-            "highlights": [
-                "+15k tickets handed over",
-                "+50k live viewers"
-            ],
-            "url": "https://miduconf.com"
+            "url": "https://jeydi.netlify.app"
         }
     ]
 }
